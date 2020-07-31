@@ -1,6 +1,6 @@
-# meals
+# Meals
 
-A new Flutter project.
+This is a application developed with using the Flutter framework. It is a recipes app.
 
 ## Getting Started
 
